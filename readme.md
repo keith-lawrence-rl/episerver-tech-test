@@ -2,7 +2,7 @@ Rufus Leonard Episerver
 
 -----------------------------------------
 
-You have 1 hour to accomplish as much as possible. Bonus marks for SOLID development and unit-testing. Give some thought to how you would improve your solution for discussion after 
+You have 1 hour to accomplish as much as possible. Bonus marks for SOLID development and unit-testing. Give some thought to how you would improve your solution for discussion after.
 
 -----------------------------------------
 
@@ -28,5 +28,9 @@ Functional requirements:
  Git repo: https://gitlab.com/RufusLeonard/rl-episerver-tech-test-2018.git
  Git username: keith@codespring.co.uk
  Git password: _Passw0rd!
+ 
+ Episerver admin credentials:
+ Username: admin
+ Password: Passw0rd!
  
  ----------------------------------------- 
