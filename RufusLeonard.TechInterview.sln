@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27004.2010
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RufusLeonard.TechInterview.Web", "RufusLeonard.TechInterview.Web\RufusLeonard.TechInterview.Web.csproj", "{7F567535-3313-490E-B2C4-2261555BBC7A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RufusLeonard.TechInterview.Test", "RufusLeonard.TechInterview.Test\RufusLeonard.TechInterview.Test.csproj", "{6A2CBF60-7E1B-4B85-A741-6B5386AA2B1E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{7F567535-3313-490E-B2C4-2261555BBC7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7F567535-3313-490E-B2C4-2261555BBC7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7F567535-3313-490E-B2C4-2261555BBC7A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A2CBF60-7E1B-4B85-A741-6B5386AA2B1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A2CBF60-7E1B-4B85-A741-6B5386AA2B1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A2CBF60-7E1B-4B85-A741-6B5386AA2B1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A2CBF60-7E1B-4B85-A741-6B5386AA2B1E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
