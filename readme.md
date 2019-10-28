@@ -1,10 +1,6 @@
 # Episerver Tech Test
 
------------------------------------------
-
 You have 1 hour to accomplish as much as possible. Bonus marks for SOLID development and unit-testing. Give some thought to how you would improve your solution for discussion after.
-
------------------------------------------
 
 ## Requirements:
 
@@ -26,14 +22,10 @@ You have 1 hour to accomplish as much as possible. Bonus marks for SOLID develop
 ## Example scenario:
  - The web-editor wants to showcase blog entries within a sidebar panel on the site. She drops the component onto the site, configures it with 5 maximum results and a search-term of 'blog'. The component displays 5 entries matching 'blog' in the title.
  
- ----------------------------------------- 
- 
 ## Testable criteria:
   - Good use of SOLID 
   - Episerver Find is not necessary
   - Bonus marks for unit tests
-
------------------------------------------ 
  
  ## Project info:
  
@@ -42,5 +34,3 @@ You have 1 hour to accomplish as much as possible. Bonus marks for SOLID develop
  Password: Passw0rd!
  
  Zip up your code and send it on to your recruiter. 
- 
- ----------------------------------------- 
